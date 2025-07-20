@@ -1,4 +1,4 @@
-![Tushar Header Animation](./assets/github_header.png)
+![Tushar Header Animation](./assets/github_header.mp4)
 
 # 👋 Hi, I'm Tushar Malhan
 
