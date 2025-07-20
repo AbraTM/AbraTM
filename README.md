@@ -1,4 +1,4 @@
-<img src="./assets/tushar-header.gif" width="700" height="auto" />
+<img src="./assets/github-header.gif" width="700" height="auto" />
 
 <div align="center">
 
