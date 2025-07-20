@@ -1,6 +1,6 @@
-<img src="./assets/github-header.gif" width="800" height="auto" align="center"/>
-
 <div align="center">
+<img src="./assets/github-header.gif" width="600" height="auto"/>
+<br></br>
 
 # 👋 Hi, I'm Tushar Malhan
 
