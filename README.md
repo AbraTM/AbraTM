@@ -1,10 +1,15 @@
-![Tushar Header Animation](./assets/github-header.gif)
+<img src="./assets/tushar-header.gif" width="700" height="auto" />
+
+<div align="center">
 
 # 👋 Hi, I'm Tushar Malhan
 
-💻 Final-year IT student | 🔧 Full Stack Web Developer | 🧠 ML Enthusiast  
+💻 Final-year IT student &nbsp;|&nbsp; 🔧 Full Stack Web Developer &nbsp;|&nbsp; 🧠 AI/ML Enthusiast  
 📍 Delhi, India  
-🔗 [Portfolio](https://abratm.github.io/Portfolio) | [LinkedIn](https://linkedin.com/in/tushar-malhan-9998ab256) | [GitHub](https://github.com/AbraTM)
+🔗 <a href="https://abratm.github.io/Portfolio">Portfolio</a> | <a href="https://linkedin.com/in/tushar-malhan-9998ab256">LinkedIn</a> | <a href="https://github.com/AbraTM">GitHub</a>
+
+</div>
+
 
 ---
 
