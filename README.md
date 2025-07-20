@@ -1,4 +1,4 @@
-<img src="./assets/github-header.gif" width="700" height="auto" />
+<img src="./assets/github-header.gif" width="800" height="auto" align="center"/>
 
 <div align="center">
 
