@@ -1,3 +1,5 @@
+![Tushar Header Animation](./assets/github_header.png)
+
 # 👋 Hi, I'm Tushar Malhan
 
 💻 Final-year IT student | 🔧 Full Stack Web Developer | 🧠 ML Enthusiast  
