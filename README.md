@@ -19,7 +19,9 @@ Veritas is a research-focused data pipeline that crawls, processes, and organize
 
 ## Looking to Collaborate On
 
-Currently focusing on **DevOps pipelines, Kafka workflows, and large-scale data ingestion**. Interested in AI/ML applications, full-stack development, healthcare, knowledge graphs, and data-driven solutions for real-world problems.  
+Always excited to team up on projects that bring data, DevOps, and intelligence together — whether it’s building full web applications, scalable data pipelines, deploying AI in real-world products, or automating cloud workflows.
+
+Currently diving deep into Kafka, container orchestration, and ML-integrated backend systems, with a strong focus on end-to-end development and production-ready solutions.
 
 ---
 
